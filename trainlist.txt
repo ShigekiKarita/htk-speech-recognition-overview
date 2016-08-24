@@ -1,0 +1,10 @@
+mfcc/hai1.mfc
+mfcc/hai2.mfc
+mfcc/hai3.mfc
+mfcc/hai4.mfc
+mfcc/hai5.mfc
+mfcc/iie1.mfc
+mfcc/iie2.mfc
+mfcc/iie3.mfc
+mfcc/iie4.mfc
+mfcc/iie5.mfc

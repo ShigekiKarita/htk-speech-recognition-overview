@@ -1,0 +1,9 @@
+SOURCEFORMAT = NOHEAD
+SOURCEKIND = WAVEFORM
+SOURCERATE = 625                # 1 / sample-rate(16000)
+TARGETKIND = MFCC_0_D_A         # 0: power, D: delta, A: accel
+TARGETRATE = 100000.0           # frame-rate [10ms]
+WINDOWSIZE = 250000.0           # window-width [25ms]
+USEHAMMING = T                  # use hamming-window
+NUMCHAINS = 24                  # size of fbank
+NUMCEPS = 12                    # size of MFCC: 12d (+ power:1d) * 3

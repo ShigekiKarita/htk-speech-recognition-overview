@@ -1,0 +1,2 @@
+$WORD = HAI | IIE;
+( { SIL } [ $WORD ] { SIL } )
